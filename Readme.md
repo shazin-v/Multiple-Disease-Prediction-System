@@ -55,7 +55,7 @@ To get started with the Multiple Disease Prediction System:
 
 1. Clone this repository using the command:
 
-git clone https://github.com/your-username/multiple-disease-prediction.git
+git clone https://github.com/shezi7025/multiple-disease-prediction.git
 
 
 Copy code
@@ -88,23 +88,6 @@ Multiple Disease Prediction, Machine Learning, Healthcare, Data Analysis, Classi
 ---
 
 
-
-## Getting Started
-
-To get started with the Multiple Disease Prediction System:
-
-1. Clone this repository using the command:
-
-git clone https://github.com/your-username/multiple-disease-prediction.git
-
-
-
-2. Install the required dependencies by running:
-
-pip install -r requirements.txt
-
-
-3. Follow the usage instructions provided in the repository to preprocess data, train models, and utilize the predictive system.
 
 
 
