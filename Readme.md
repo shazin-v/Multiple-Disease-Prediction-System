@@ -54,12 +54,14 @@ The Multiple Disease Prediction System offers the following features:
 To get started with the Multiple Disease Prediction System:
 
 1. Clone this repository using the command:
+
 git clone https://github.com/your-username/multiple-disease-prediction.git
 
-arduino
+
 Copy code
 
 2. Install the required dependencies by running:
+
 pip install -r requirements.txt
 
 python
@@ -78,22 +80,12 @@ Contributions to this project are encouraged and welcome! If you'd like to contr
 
 Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more details.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Keywords and Tags
 
 Multiple Disease Prediction, Machine Learning, Healthcare, Data Analysis, Classification, Python
 
 ---
-
-Developed by [Your Name](https://github.com/your-username)
-Remember to replace your-username, Your Name, and the screenshot file paths with appropriate values. The README now includes technologies used, screenshots, keywords, and tags for better context and visibility.
-
-
-
-
 
 
 
@@ -114,20 +106,7 @@ pip install -r requirements.txt
 
 3. Follow the usage instructions provided in the repository to preprocess data, train models, and utilize the predictive system.
 
-## Contribution Guidelines
 
-Contributions to this project are encouraged and welcome! If you'd like to contribute:
-
-1. Fork the repository and create a new branch for your work.
-2. Implement your changes and improvements.
-3. Test your changes thoroughly.
-4. Create a pull request detailing the changes you've made.
-
-Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -135,4 +114,4 @@ We extend our gratitude to the open-source community and the developers of libra
 
 ---
 
-Developed by [Your Name](https://github.com/your-username)
+Developed by Shezi (https://github.com/shezi7025)
