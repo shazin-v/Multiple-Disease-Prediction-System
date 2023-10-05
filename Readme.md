@@ -44,10 +44,13 @@ The Multiple Disease Prediction System offers the following features:
 ## Screenshots
 
 ![Screenshot 1](Screenshot/Diabetes.jpg)
-*Caption for Screenshot 1*
+Diabetes Output
 
-![Screenshot 2](Screenshot/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](Screenshot/Heart.jpg)
+Heart Output
+
+![Screenshot 2](Screenshot/Parkinsons.jpg)
+Parkinson's Output
 
 ## Getting Started
 
