@@ -43,10 +43,10 @@ The Multiple Disease Prediction System offers the following features:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](Screenshot/Diabetes.jpg)
 *Caption for Screenshot 1*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](Screenshot/screenshot2.png)
 *Caption for Screenshot 2*
 
 ## Getting Started
